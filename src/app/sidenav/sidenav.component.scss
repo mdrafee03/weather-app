@@ -1,0 +1,22 @@
+.container {
+    background: #2a4151;
+    height: 100vh;
+}
+ul li {
+    list-style: none;
+    margin-bottom: 20px;
+    padding: 5px;
+}
+ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+ul li img {
+    width: 20px;
+    vertical-align: bottom;
+    margin-right: 5px;
+}
+ul li:hover {
+    background: #3f676f
+}

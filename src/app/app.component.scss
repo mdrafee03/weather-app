@@ -1,0 +1,9 @@
+.container {
+    display: flex;
+}
+.sidenav{
+    flex-basis: 35%;
+}
+.view {
+    flex: 1 1 auto;
+}
